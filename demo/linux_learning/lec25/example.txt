@@ -1,0 +1,3 @@
+abcdefg11
+
+#dsecho 3 > /proc/sys/vm/drop_caches
