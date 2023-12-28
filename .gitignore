@@ -1,6 +1,1 @@
-bin/default.pd-boring-virtual-machine/member/wal/0000000000000000-0000000000000000.wal
-bin/data/raft/000000.vlog
-bin/data1/kv/000000.vlog
-bin/data1/raft/000000.vlog
-bin/data/kv/000000.vlog
 bin/*
